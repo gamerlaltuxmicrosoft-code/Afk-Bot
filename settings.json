@@ -45,7 +45,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 15,
 
       "messages": [
         "I'm a regular player ",
